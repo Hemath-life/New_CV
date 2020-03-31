@@ -1,0 +1,156 @@
+body{
+    background: antiquewhite(222, 228, 227);
+    font-family: sans-serif;
+    margin:0 0;
+    text-align: center;
+    line-height: 2;
+    
+
+   
+}
+
+ h1{
+     font-size: 3.652rem;
+      margin: 0 auto 0 auto;
+      font-family:cursive;
+     color:rgb(46, 94, 143);
+ } 
+ h2
+ {    
+      color:rgb(46, 63, 94);
+      font-family: monospace;
+      font-size: 2rem;
+      font-weight: normal;
+      padding-bottom: 20px;
+ }
+
+ h3
+ {color: rgba(14, 11, 56, 0.986);
+      font-family: serif;
+      
+ }
+ .intro
+
+ {
+     width: 30%;
+     padding-bottom:40px;
+     margin: 0 auto 0 auto;
+ }
+ .intro1
+
+ {
+     width: 30%;
+     padding-bottom:80px;
+     margin: 0 auto 0 auto;
+     
+ }
+ span
+ {
+     text-decoration:underline;
+ }
+ img{
+    width: 160px;
+    height: 160px;
+    border-radius: 500px;
+    margin-top: 10px;
+    
+}
+.top-cloud
+{
+    position: absolute;
+    top: 40px;
+    right: 800px;
+}
+
+
+.bottom-cloud
+{
+    position: absolute;
+    top: 100px;
+    right: 30px;
+
+}
+.top-container{
+
+    background:rgb(191, 183, 240);
+    margin-top: 0;
+    position: relative;
+    padding-top: 150px;
+}
+.profile
+{
+    margin-top: 50px;
+}
+.skill-row
+{
+width: 50%;
+margin: 50px auto 50px auto;
+text-align:left;
+line-height: 2;
+clear: left;
+clear: right;
+}
+
+
+/*  */
+.float1
+{
+    float: left;
+    margin-right: 50px;
+   clear: right;
+   clear: left;
+}
+.float2
+{
+    float: right;
+    margin-left: 50px;
+
+}
+hr
+{
+   border: dotted rgb(191, 183, 240) 6px;
+   border-bottom: none;
+   width: 5%;
+   margin: 100px auto 100px auto;
+
+}
+.btn{
+    margin: 100px auto 100px auto;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 7px;
+    color:rgb(52, 96, 214);
+    background:rgb(191, 183, 240);
+    border-radius:85px;
+}
+.btn:hover
+{
+    background-color: blue;
+    color: whitesmoke;
+    /* color:blue; */
+}
+
+.end-container
+{
+    margin-top: 50px;
+    padding: 60px;
+    background:rgb(191, 183, 240);
+    line-height: 2;
+
+}
+.footer-link:hover
+{
+    color:white;
+}
+.footer-link{
+    color:rgb(52, 96, 214);
+    font: 1em sans-serif;
+    text-decoration:none;
+    margin: 10px 10px;
+}
+.Contact-me
+{
+    margin: 10px 0 100px  0;
+    line-height: 2;
+}
